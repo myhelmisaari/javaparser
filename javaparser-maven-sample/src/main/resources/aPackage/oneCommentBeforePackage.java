@@ -1,6 +1,4 @@
-// comment before package
-// 2nd comment before pa
-// 3rd comment
+//comment 1
 package aPackage;
 public class commentedClass {
     public boolean foo(int i, int j) {
